@@ -64,6 +64,7 @@ img {
 }
 svg:not(:root) {
   overflow: hidden;
+  z-index: 1;
 }
 figure {
   margin: 0;
